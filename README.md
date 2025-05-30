@@ -2,7 +2,7 @@
 
 SugerScope is an Android app designed to help people with diabetes manage their condition more easily. Inspired by the need for accessible and practical health tools, it allows users to log and visualize blood glucose and other health data, generate reports, and stay on top of their diabetes care.
 
-<img src="./resource/image/marketing/showcase.png" width="750" alt="App showcase"> 
+> 
 
 ## Features
 
@@ -15,6 +15,7 @@ SugerScope is an Android app designed to help people with diabetes manage their 
 - Estimate HbA1c automatically
 - Access food data with nutritional info
 - Statistics for better insight
+- Predictions of your glucose level
 - Dark Mode
 
 ## Screenshots
@@ -39,6 +40,7 @@ Clone the repo and open the project in Android Studio. The app is written in Jav
 - **Architecture:** Model-View-Controller (MVC), with gradual transition to MVVM
 - **Testing:** JUnit and Espresso for unit and instrumentation testing
 - **Localization:** Android resources for UI; CSV files for food and tags
+-**ML**:Sklearn(Python)
 
 ## License
 
